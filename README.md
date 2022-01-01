@@ -12,7 +12,16 @@ A ML project to predict price of second hand cars so that people can save time i
 3. Best ML Model : Best ML Model comes out to be Random Forest Regressor
 
 
-4. A Web Application will be deplyed on Heroku...
+## Web Application 
+
+1. Web Applications runs on Flask Framework
+
+2. Use Following Commands to run on your system (runs on localhost:5000)
+
+```
+pip install -r requirements.txt
+python app.py
+```
 
 
 ## EDA 📊
